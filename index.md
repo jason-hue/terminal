@@ -1,7 +1,7 @@
 
 # 命令行入门
 
-©NextNatural著，转载记得注明出处哦！
+©knifefire著，转载记得注明出处哦！
 
 #### 注：程序员不学命令行，不如回家卖烤肠
 
@@ -211,4 +211,4 @@ export SASS_BINARY_SITE="http://npm.taobao.org/mirrors/node-sass"
 
 [大家可以看看我写的另一篇文章，关于termux的](http://jason-hue.github.io/termux/)
 
-©NextNatural & ZH
+©knifefire & ZH
